@@ -1,5 +1,5 @@
 /* Slot Machine Game */
-
+// Steps to complete
 // 1. deposit some money 
 // 2. Determine number of lines to bet on
 // 3. collect a bet amount
